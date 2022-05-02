@@ -9,7 +9,7 @@ Train project for Yandex Practicum (Yandex Data School)
 | [1. Предобработка данных](https://github.com/Ni-ik/YandexTrainProjects/tree/main/01.%20Проект%20Исследование%20надёжности%20заёмщиков)| Разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок на основе статистики о платёжеспособности клиентов.      |pandas, pymystem3 |
 | [2. Исследовательский анализ данных](https://github.com/Ni-ik/YandexTrainProjects/blob/main/02.%20Оценка%20стоимости%20недвижимости/pr02.ipynb) |Установить параметры влияющие на рыночную стоимость объектов недвижимости.| pandas, matplotlib |
 | [3. Статистический анализ данных](https://github.com/Ni-ik/YandexTrainProjects/blob/main/03.%20Определение%20перспективного%20тарифа%20для%20телеком-компании/Project_03.ipynb) |Определить наиболее выгодный тариф для сотового оператора| pandas, matplotlib |
-| [4. Анализ успешности видеоигр](https://github.com/Ni-ik/YandexTrainProjects/blob/main/04.%20Анализ%20успешности%20видеоигр/Project_04.ipynb) | ++++      | pandas, matplolib, seaborn |
+| [4. Анализ успешности видеоигр](https://github.com/Ni-ik/YandexTrainProjects/blob/main/04.%20Анализ%20успешности%20видеоигр/Project_04.ipynb) |Выявить определяющие успешность игры закономерности   | pandas, matplolib, seaborn |
 | 5. Введение в машинное обучения | ++++      | pandas |
 | 6. Обучение с учителем | ++++      | pandas |
 | 7. Машинное обучение в бизнесе | ++++      | pandas |
