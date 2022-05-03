@@ -10,7 +10,7 @@ Train project for Yandex Practicum (Yandex Data School)
 | [2. Исследовательский анализ данных](https://github.com/Ni-ik/YandexTrainProjects/blob/main/02.%20Оценка%20стоимости%20недвижимости/pr02.ipynb) |Установить параметры влияющие на рыночную стоимость объектов недвижимости.| pandas, matplotlib |
 | [3. Статистический анализ данных](https://github.com/Ni-ik/YandexTrainProjects/blob/main/03.%20Определение%20перспективного%20тарифа%20для%20телеком-компании/Project_03.ipynb) |Определить наиболее выгодный тариф для сотового оператора| pandas, matplotlib |
 | [4. Анализ успешности видеоигр](https://github.com/Ni-ik/YandexTrainProjects/blob/main/04.%20Анализ%20успешности%20видеоигр/Project_04.ipynb) |Выявить определяющие успешность игры закономерности   | pandas, matplolib, seaborn |
-| 5. Введение в машинное обучения | ++++      | pandas |
+| [5. Введение в машинное обучения] | Построить модель, которая выберет подходящий тариф, с максимально большим значением accuracy. | pandas, sklearn |
 | 6. Обучение с учителем | ++++      | pandas |
 | 7. Машинное обучение в бизнесе | ++++      | pandas |
 | 8. Машинное обучение в бизнесе 2 | ++++      | pandas |
