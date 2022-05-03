@@ -11,7 +11,7 @@ Train project for Yandex Practicum (Yandex Data School)
 | [3. Статистический анализ данных](https://github.com/Ni-ik/YandexTrainProjects/blob/main/03.%20Определение%20перспективного%20тарифа%20для%20телеком-компании/Project_03.ipynb) |Определить наиболее выгодный тариф для сотового оператора| pandas, matplotlib, scipy |
 | [4. Анализ успешности видеоигр](https://github.com/Ni-ik/YandexTrainProjects/blob/main/04.%20Анализ%20успешности%20видеоигр/Project_04.ipynb) |Выявить определяющие успешность игры закономерности   | pandas, matplolib, seaborn |
 | [5. Введение в машинное обучения](https://github.com/Ni-ik/YandexTrainProjects/blob/main/05.%20Рекомендация%20тарифов/Project_05.ipynb) | Построить модель, которая выберет подходящий тариф, с максимально большим значением accuracy. | pandas, sklearn |
-| [6. Обучение с учителем](https://github.com/Ni-ik/YandexTrainProjects/blob/main/06.%20Прогноз%20ухода%20клиентов/Project_06.ipynb |Спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. | pandas, sklearn |
+| [6. Обучение с учителем](https://github.com/Ni-ik/YandexTrainProjects/blob/main/06.%20Прогноз%20ухода%20клиентов/Project_06.ipynb) |Спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. | pandas, sklearn |
 | 7. Машинное обучение в бизнесе | ++++      | pandas |
 | 8. Машинное обучение в бизнесе 2 | ++++      | pandas |
 | 9. Линейная алгебра | ++++      | pandas |
