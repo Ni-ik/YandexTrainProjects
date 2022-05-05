@@ -13,7 +13,7 @@ Train project for Yandex Practicum (Yandex Data School)
 | [5. Введение в машинное обучения](https://github.com/Ni-ik/YandexTrainProjects/blob/main/05.%20Рекомендация%20тарифов/Project_05.ipynb) | Построить модель, которая выберет подходящий тариф, с максимально большим значением accuracy. | pandas, sklearn |
 | [6. Обучение с учителем](https://github.com/Ni-ik/YandexTrainProjects/blob/main/06.%20Прогноз%20ухода%20клиентов/Project_06.ipynb) |Спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. | pandas, sklearn |
 | [7. Машинное обучение в бизнесе](https://github.com/Ni-ik/YandexTrainProjects/blob/main/07.%20Выбор%20лучших%20регионов/Project_07.ipynb) | Выбор лучших регионов для разработки скважин | pandas, sklearn, matplotlib |
-| 8. Машинное обучение в бизнесе 2 | ++++      | pandas |
+| 8. Машинное обучение в бизнесе 2 | Восстановление золота из руды      | pandas |
 | 9. Линейная алгебра | ++++      | pandas |
 | 10. Численные методы | ++++      | pandas |
 | 11. Временные ряды | ++++      | pandas |
