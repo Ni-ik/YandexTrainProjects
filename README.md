@@ -17,7 +17,7 @@ Train project for Yandex Practicum (Yandex Data School)
 | [9. Линейная алгебра](https://github.com/Ni-ik/YandexTrainProjects/blob/main/09.%20Защита%20персональных%20данных/Project_09_v1.ipynb) | Защита персональных данных клиентов | pandas, numpy, sklearn |
 | [10. Численные методы](https://github.com/Ni-ik/YandexTrainProjects/blob/main/10.%20Определение%20стоимости%20автомобиля/Project_10.ipynb) | Опрелеление стоимости автомобиля   | pandas, seaborn, numpy, sklearn, catboost, lightgbm |
 | [11. Временные ряды](https://github.com/Ni-ik/YandexTrainProjects/blob/main/11.%20Прогнозирование%20заказов%20такси/project10_v2.ipynb) | Прогнозирование заказов такси | pandas, skipy, matplotlib, sklearn, catboost, lightgbm |
-| 12. Машинное обучение для текстов | ++++      | pandas |
+| 12. [Машинное обучение для текстов] | Классификация текстов      | pandas, sklearn, pymystem3, catboost  |
 | 13. Базовый SQL | ++++      | pandas |
 | 14. Компьютерное зрение | ++++      | pandas |
 | 15. Итоговый проект | ++++      | pandas |
