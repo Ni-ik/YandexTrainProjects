@@ -18,6 +18,6 @@ Train project for Yandex Practicum (Yandex Data School)
 | [10. Численные методы](https://github.com/Ni-ik/YandexTrainProjects/blob/main/10.%20Определение%20стоимости%20автомобиля/Project_10.ipynb) | Опрелеление стоимости автомобиля   | pandas, seaborn, numpy, sklearn, catboost, lightgbm |
 | [11. Временные ряды](https://github.com/Ni-ik/YandexTrainProjects/blob/main/11.%20Прогнозирование%20заказов%20такси/project10_v2.ipynb) | Прогнозирование заказов такси | pandas, skipy, matplotlib, sklearn, catboost, lightgbm |
 | 12. [Машинное обучение для текстов](https://github.com/Ni-ik/YandexTrainProjects/blob/main/12.%20Классификация%20текстов/texts_rec.ipynb) | Классификация текстов      | pandas, sklearn, pymystem3, catboost  |
-| 13. [Компьютерное зрение] | ++++      | pandas |
+| 13. Компьютерное зрение | Определение возраста покупателей    | pandas, matplotlib, keras |
 | 14. Итоговый проект | ++++      | pandas |
 
