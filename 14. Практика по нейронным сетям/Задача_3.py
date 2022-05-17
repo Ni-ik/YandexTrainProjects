@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[10]:
-
-
 from tensorflow.keras.layers import Dense, AvgPool2D, Conv2D, Flatten, MaxPooling2D, GlobalAveragePooling2D, Dropout
 from tensorflow.keras.models import Sequential
 import numpy as np
@@ -11,8 +5,6 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.applications.resnet import ResNet50
 
-
-# In[11]:
 
 
 def load_train(path):
