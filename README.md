@@ -20,5 +20,5 @@ Train project for Yandex Practicum (Yandex Data School)
 | [12. Машинное обучение для текстов](https://github.com/Ni-ik/YandexTrainProjects/blob/main/12.%20Классификация%20текстов/texts_rec.ipynb) | Классификация текстов      | pandas, sklearn, pymystem3, catboost  |
 | [13. Компьютерное зрение](https://github.com/Ni-ik/YandexTrainProjects/blob/main/13.%20%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%BE%D0%B7%D1%80%D0%B0%D1%81%D1%82%D0%B0%20%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9/Project_13.ipynb) | Определение возраста покупателей    | pandas, matplotlib, keras |
 | [14. Практика по нейронным сетям](https://github.com/Ni-ik/YandexTrainProjects/tree/main/14.%20Практика%20по%20нейронным%20сетям) | Конструирование архитектуры нейронных сетей | keras, numpy |
-| 15. Итоговый проект | Определение тепературы сплава  | pandas, seaborn, matplotlib, sklearn, catboost |
+| [15. Итоговый проект](https://github.com/Ni-ik/YandexTrainProjects/blob/main/15.%20%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%82%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D1%8B%20%D1%81%D0%BF%D0%BB%D0%B0%D0%B2%D0%B0/fin_industry%20(1).ipynb) | Определение тепературы сплава  | pandas, seaborn, matplotlib, sklearn, catboost |
 
